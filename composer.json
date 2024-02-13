@@ -1,0 +1,16 @@
+{
+    "name": "pozys/vector-handler",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Pozys\\VectorHandler\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "pozys",
+            "email": "pozys@mail.ru"
+        }
+    ],
+    "require": {}
+}
