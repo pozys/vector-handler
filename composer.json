@@ -12,5 +12,7 @@
             "email": "pozys@mail.ru"
         }
     ],
-    "require": {}
+    "require": {
+        "php": ">=5.0"
+    }
 }
